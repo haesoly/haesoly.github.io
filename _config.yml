@@ -5,7 +5,7 @@ url: "https://haesoly.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: haesoly
+  title: haesoly blog
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -27,7 +27,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "haesoly blog"
+  github: "haesoly"
   gitter:
   google_plus:
   instagram:
